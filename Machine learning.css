@@ -5,8 +5,7 @@
 
 body {
   background-color: #eee;
-  background-image: url(https://cdn-images-1.medium.com/max/1600/1*z2Wmc3lNC51gH2NPXHRXpg.png);
-  background-size: cover;
+  
 }
 
 .wrapper {
@@ -73,3 +72,4 @@ nav ul li ul li {
 nav ul li ul li a:hover{
   background-color: #f3f3f3;
   }
+
