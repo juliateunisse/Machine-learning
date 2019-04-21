@@ -1,12 +1,19 @@
 * {
   margin: 0;
   padding: 0;
+   color: #ffffff;
 }
 
 body {
-  background-color: #eee;
-  background-image: url(https://cdn-images-1.medium.com/max/1600/1*z2Wmc3lNC51gH2NPXHRXpg.png);
-  background-size: cover;
+  background-color: #000000;
+  background-image: url();
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 .wrapper {
